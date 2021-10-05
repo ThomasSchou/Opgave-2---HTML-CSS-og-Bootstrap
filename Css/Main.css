@@ -1,0 +1,26 @@
+body {
+    margin: none;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.topBar {
+    height: auto;
+    width: 100%;
+    background-color: #FFFFCC;
+    padding-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #FFFFCC;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: inset 0px 5px 27px -10px #000000;
+  }
